@@ -1,0 +1,14 @@
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\bin\Debug\net8.0\Gestion_Inventario.exe
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\bin\Debug\net8.0\Gestion_Inventario.deps.json
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\bin\Debug\net8.0\Gestion_Inventario.runtimeconfig.json
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\bin\Debug\net8.0\Gestion_Inventario.dll
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\bin\Debug\net8.0\Gestion_Inventario.pdb
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\obj\Debug\net8.0\Gestion_Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\obj\Debug\net8.0\Gestion_Inventario.AssemblyInfoInputs.cache
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\obj\Debug\net8.0\Gestion_Inventario.AssemblyInfo.cs
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\obj\Debug\net8.0\Gestion_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\obj\Debug\net8.0\Gestion_Inventario.dll
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\obj\Debug\net8.0\refint\Gestion_Inventario.dll
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\obj\Debug\net8.0\Gestion_Inventario.pdb
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\obj\Debug\net8.0\Gestion_Inventario.genruntimeconfig.cache
+C:\Users\Alexander\OneDrive\Desktop\Gestion_Inventario1\Gestion_Inventario\Gestion_Inventario\obj\Debug\net8.0\ref\Gestion_Inventario.dll
